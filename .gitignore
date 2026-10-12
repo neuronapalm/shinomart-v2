@@ -1,0 +1,17 @@
+# Local research and QA output are kept outside the public site repository.
+/qa/screenshots/
+/qa/browser-results.json
+/qa/shinomart-source-before.sha256
+/ASSET-REGISTER.md
+/DESIGN-QA.md
+/SEMANTIC-QA.md
+/TECHNICAL-QA.md
+
+# Source mockups contain unverified placeholder content. Only assets used by
+# the implemented page are included in the public repository.
+/shinomart_codex_package/README.md
+/shinomart_codex_package/mockups/
+/shinomart_codex_package/assets/icons/
+/shinomart_codex_package/assets/services/
+/shinomart_codex_package/assets/brand/logo-concept-raster.png
+/shinomart_codex_package/assets/hero/hero-workshop.jpg
